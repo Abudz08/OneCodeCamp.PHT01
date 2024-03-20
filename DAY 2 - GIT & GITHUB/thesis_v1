@@ -1,0 +1,6 @@
+git config --global user.name "AbdulrahmanTabao"
+git config --global user.email "abudztabao@gmail.com"
+git init
+git add .
+git status
+git log
