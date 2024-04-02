@@ -1,0 +1,17 @@
+GITHUB 
+
+Cloning
+    git clone repositoryLinkAddress - link from github
+
+Forking (copying a repository from other's github account to your github)
+    find/select a repository fron other github users
+    click fork
+    create fork
+    done!
+
+Saving projects to github
+    git init
+    git commit -m "first commit"
+    git branch -M main
+    git remote add origin https://github.com/Abudz08/AbdulrahmanTabao.git
+    git push -u origin main
