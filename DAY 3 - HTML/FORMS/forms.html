@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML FORMS</title>
+</head>
+
+<body>
+
+    <h2>HTML FORMS OCC PHT01</h2>
+
+    <form>
+        <label for="fname">First Name</label>      
+        <input type="text" name="fname" id="fname" required/>
+        <br>
+
+        <label for="password">Password</label>
+        <input type="password" name="password" id="password" required/>
+        <br>
+
+        <label for="email">Email Address</label>
+        <input type="email" name="email" id="email">
+        <br>
+
+        <label for="contact">Contact Number</label>
+        <!--1. number, 2. tel-->
+        <input type="tel" name="contact" id="contact" pattern="\+\(\d{2}\) \d{3}-\d{3}-\d{4}" placeholder="+(63) 910-000-0000">
+        <br>
+
+        <label for="message">Message</label>
+        <textarea name="message" id="message" rows="5" cols="25"></textarea>
+        <br>
+
+        <label for="operating system">Operating System</label>
+        <select name="operating system" id="operating system">
+            <option value="none">-----</option>     
+            <option value="windows">Windows</option>
+            <option value="linux">Linux</option>
+            <option value="macos">MacOS</option>
+            <option value="solaris">Solaris</option>
+            <option value="freebsd">FreeBSD</option>
+        </select>
+        <br>
+        
+        <label for="gender">Gender:</label>
+        <input type="radio" name="gender" id="man" value="man">
+        <label for="man">Man</label>
+        <input type="radio" name="gender" id="woman" value="woman">
+        <label for="woman">Woman</label>
+        <input type="radio" name="gender" id="lgbtqia+" value="lgbtqia+">
+        <label for="lgbtqia+">LGBTQIA+</label>
+        <br>
+
+        <label for="sex">Sex:</label>
+        <input type="checkbox" name="sex" id="male">
+        <label for="male">Male</label>
+        <input type="checkbox" name="sex" id="female">
+        <label for="female">Female</label>
+        <br><br>
+
+        <button type="submit">Submit</button>
+
+
+    </form>
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,18 @@
+GIT and GITHUB
+GIT - control system
+
+in TERMINAL, select GITBASH  - lower right dropdown beside "+"
+
+GIT configuration
+    git config --global user.name "AbdulrahmanTabao"                
+    git config --global user.email "abudztabao@gmail.com"
+    
+GIT repository
+    git init    - initialize / create repository
+    git status  - show status
+    git add .   - track files
+    
+    git log
+    git add 'DAY 2 - GIT & GITHUB/thesis_v1' --- track changes
+    git commit -m "Second Thesis Version" --- save logs
+    git revert

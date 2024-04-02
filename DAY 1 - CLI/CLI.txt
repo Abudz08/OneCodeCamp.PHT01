@@ -1,0 +1,17 @@
+CLI (Command Line Interface) commands
+
+in TERMINAL, select POWERSHELL  - lower right dropdown beside "+"
+    mkdir folderName    - create folder
+    cd folderName       - select folder
+    rmdir folderName    - delete folder
+    cd ..               - return previous folder
+    ls                  - show folder content
+    rmdir               - delete folder
+    pwd                 - current folder
+    cls/clear           - clear terminal prompts
+    del fileName        - delete file
+    copy fileName.ext   - copy file
+    move fileName.ext   - move file
+
+    ren fileName.ext newName.ext            - rename file
+    echo "text content" > fileName.ext      - add text content in the file

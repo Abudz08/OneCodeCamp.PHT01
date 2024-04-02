@@ -1,0 +1,16 @@
+install VISUAL STUDIO CODE  - code.visualstudio.com
+create a GITHUB account     - github.com
+install GIT                 - git-scm.com/downloads
+
+
+
+open VISUAL STUDIO CODE
+in FILE, select AUTOSAVE
+in EXTENSION,
+    install PRETTIER        - Prettier - Code Formatter (give colors in codes)
+    install LIVE SERVER     - for HTML view from browser
+    install AUTO RENAME TAG - auto tag paring codes
+in TERMINAL,
+    create/select FOLDER    - to save all files on the folder
+
+
