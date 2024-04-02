@@ -5,13 +5,30 @@ Cloning
 
 Forking (copying a repository from other's github account to your github)
     find/select a repository fron other github users
-    click fork
-    create fork
+    click FORK
+    xlick CREATE FORK
     done!
 
 Saving projects to github
     git init
     git commit -m "first commit"
     git branch -M main
-    git remote add origin https://github.com/Abudz08/AbdulrahmanTabao.git
+    git remote add origin https://github.com/Abudz08/AbdulrahmanTabao.git   - add/link your github account to Visual Studio Code
     git push -u origin main
+
+Add file/code in a repository in github
+    click <> CODE
+    click ADD FILE
+    click CREATE NEW FILE
+    fill in FILE NAME 
+    copy/paste your code on the blank sheet
+    click COMMIT CHANGES
+    add message/description
+    click COMMIT CHANGES
+
+Create PULL REQUEST (submit your code/file using github)
+    click PULL REQUEST
+    click NEW PULL REQUEST
+    click CREATE PULL REQUEST
+    add message/description
+    click CREATE PULL REQUEST
