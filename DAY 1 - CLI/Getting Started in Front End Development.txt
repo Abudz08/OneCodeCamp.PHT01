@@ -1,3 +1,6 @@
+OneCodeCamp PHT01 recorded session:
+https://docs.google.com/spreadsheets/d/1yTOB8-Ep22RfMsHROG3s2oA9Wkdg1iW3BuWIfP_gapY/edit#gid=0
+
 install VISUAL STUDIO CODE  - code.visualstudio.com
 create a GITHUB account     - github.com
 install GIT                 - git-scm.com/downloads

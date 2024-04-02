@@ -8,11 +8,11 @@ GIT configuration
     git config --global user.email "abudztabao@gmail.com"
     
 GIT repository
-    git init    - initialize / create repository
-    git status  - show status
-    git add .   - track files
+    git init                        - initialize / create repository
+    git status                      - show status
+    git add .                       - track all files in the folder
+    git commit -m "savePointName"   - create save point 
+    git log                         - show save points / commit history
+    git add 'fileName'              - track changes from specific file (fileName = git status modified: fileName)
+    git revert 'commitLogName'      - commitLogName from git log
     
-    git log
-    git add 'DAY 2 - GIT & GITHUB/thesis_v1' --- track changes
-    git commit -m "Second Thesis Version" --- save logs
-    git revert
